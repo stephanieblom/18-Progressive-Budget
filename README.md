@@ -3,6 +3,7 @@
 # Description 
 
 This app is a **P**rogressive **W**eb **A**plication for tracking a users personal budget. Users are able to input their income and spending to track their budget. Users can make changes offline which will be saved into the db once they return online. 
+For the **PWA** a webmanifest and service-worker file was created 
 
 ```
 AS AN avid traveller
